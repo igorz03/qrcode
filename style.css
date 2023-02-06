@@ -1,0 +1,37 @@
+body{
+    background-color:  hsl(220, 15%, 55%);
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    width: 500px;
+    height: 700px;
+    background-color:  hsl(0, 0%, 100%);
+    border-radius: 15px;
+    margin-top: 50px;
+}
+
+.qr-code{
+    width: 300px;
+    border-radius: 10px;
+    margin: 100px;
+}
+
+h1{
+    font-size: 25px;
+}
+
+.text{
+   text-align: center;
+   font-weight: 600px;
+}
+
+.descricao{
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  color:  hsl(220, 15%, 55%);
+
+}
